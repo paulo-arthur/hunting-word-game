@@ -1,0 +1,14 @@
+/home/paulo/Programas/hunting-words/obj/Debug/net7.0/hunting-words.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/Programas/hunting-words/obj/Debug/net7.0/hunting-words.AssemblyInfoInputs.cache
+/home/paulo/Programas/hunting-words/obj/Debug/net7.0/hunting-words.AssemblyInfo.cs
+/home/paulo/Programas/hunting-words/obj/Debug/net7.0/hunting-words.csproj.CoreCompileInputs.cache
+/home/paulo/Programas/hunting-words/bin/Debug/net7.0/hunting-words
+/home/paulo/Programas/hunting-words/bin/Debug/net7.0/hunting-words.deps.json
+/home/paulo/Programas/hunting-words/bin/Debug/net7.0/hunting-words.runtimeconfig.json
+/home/paulo/Programas/hunting-words/bin/Debug/net7.0/hunting-words.dll
+/home/paulo/Programas/hunting-words/bin/Debug/net7.0/hunting-words.pdb
+/home/paulo/Programas/hunting-words/obj/Debug/net7.0/hunting-words.dll
+/home/paulo/Programas/hunting-words/obj/Debug/net7.0/refint/hunting-words.dll
+/home/paulo/Programas/hunting-words/obj/Debug/net7.0/hunting-words.pdb
+/home/paulo/Programas/hunting-words/obj/Debug/net7.0/hunting-words.genruntimeconfig.cache
+/home/paulo/Programas/hunting-words/obj/Debug/net7.0/ref/hunting-words.dll
